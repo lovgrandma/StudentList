@@ -63,7 +63,6 @@ public class StudentList {
             System.out.println(student.getName());
         }
         
-        System.out.println("Yay!");
     }
 
 }
